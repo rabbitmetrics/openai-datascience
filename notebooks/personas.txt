@@ -1,0 +1,39 @@
+1. Young Professional Male: Age 25-35, interested in looking stylish yet comfortable for his daily commute and office environment. He values quality and brand reputation. His goal is to maintain a professional image while expressing his personal style.
+
+2. Fitness Enthusiast Female: Age 20-30, she is a regular gym-goer and values athletic wear that is both functional and fashionable. Her goal is to stay fit and look good while doing it.
+
+3. Trendy Teenager: Age 13-19, this persona is very interested in the latest trends and what their peers are wearing. They value affordability and the 'cool' factor. Their goal is to fit in and express their developing personal style.
+
+4. Stylish Mum: Age 30-40, she is interested in looking fashionable while being able to comfortably manage her active kids. She values durability and versatility in clothing. Her goal is to maintain her sense of style while being a busy mum.
+
+5. Sporty Kid: Age 6-12, interested in sports and outdoor activities. They value comfort and fun designs in their clothing. Their goal is to have fun and be comfortable while playing.
+
+6. Fashion-forward Female: Age 18-25, she is very interested in the latest fashion trends and values unique, statement pieces. Her goal is to express her individuality through her fashion choices.
+
+7. Urban Hipster Male: Age 20-30, he is interested in urban culture and values unique, vintage-inspired designs. His goal is to express his unique style and stand out from the crowd.
+
+8. Active Retiree: Age 60+, they are interested in comfortable, quality clothing for their active lifestyle. They value durability and classic styles. Their goal is to stay active and comfortable.
+
+9. College Student: Age 18-22, interested in comfortable, versatile clothing for their busy college life. They value affordability and casual styles. Their goal is to look good without spending a lot of time or money on their wardrobe.
+
+10. Corporate Female: Age 30-45, she is interested in professional, stylish clothing for her corporate job. She values quality and classic styles. Her goal is to look professional and stylish at work.
+
+11. Young Trendsetter: Age 5-10, interested in fun, trendy clothing. They value colorful, fun designs. Their goal is to express their personality and have fun with their clothing.
+
+12. Eco-conscious Shopper: Age 20-40, they are interested in sustainable fashion and value eco-friendly products. Their goal is to support brands that align with their values.
+
+13. Luxury Lover: Age 30-50, they are interested in high-end fashion and value luxury brands. Their goal is to showcase their status and taste through their clothing.
+
+14. Casual Comfort Seeker: Age 20-60, they are interested in comfortable, casual clothing for their everyday life. They value comfort and simplicity. Their goal is to feel comfortable and relaxed in their clothing.
+
+15. Athletic Teen: Age 13-19, they are interested in sports and value athletic wear. Their goal is to perform well in their sport and look good while doing it.
+
+16. Budget-conscious Shopper: Age 18-35, they are interested in affordable fashion and value good deals. Their goal is to look stylish on a budget.
+
+17. Fashionable Dad: Age 30-45, he is interested in stylish, practical clothing for his busy life as a dad. He values durability and comfort. His goal is to look good while being a hands-on dad.
+
+18. Stylish Senior: Age 60+, they are interested in classic, quality clothing. They value comfort and timeless styles. Their goal is to look stylish and age-appropriate.
+
+19. Trendy Toddler: Age 2-5, their parents are interested in trendy, cute clothing for their toddler. They value durability and easy-to-clean materials. Their goal is to have their toddler look cute and stylish.
+
+20. High-fashion Female: Age 25-40, she is interested in high-fashion, designer pieces. She values unique, high-quality designs. Her goal is to stand out and express her high-fashion style.
